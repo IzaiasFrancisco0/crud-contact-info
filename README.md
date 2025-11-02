@@ -37,13 +37,17 @@ npm start
 ----------------------------------------------------
 Menu do CRUD
 ========================
-        MENU
-========================
+<br>
 1 - Listar contatos
+<br>
 2 - Criar contato
+<br>
 3 - Alterar contato
+<br>
 4 - Deletar contato
+<br>
 5 - Sair
+<br>
 
 - Digite o número correspondente à ação que deseja realizar.
 - Para alterar ou deletar, use o ID do contato listado na tela.
